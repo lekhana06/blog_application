@@ -1,0 +1,16 @@
+.users-page .list-group-item {
+    text-align: left;
+    cursor: pointer;
+}
+.header{
+    text-align: left;
+}
+.post-header{
+    text-align: left;
+}
+.list-group-item{
+    text-align: left;
+}
+.comment-header{
+    text-align: left;
+}
